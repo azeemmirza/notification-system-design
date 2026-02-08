@@ -24,15 +24,15 @@ NotificationService
 ## Quick Start
 
 ### Clone the Repository
-\`\`\`bash
+```bash
 git clone <repository-url>
 cd notification-system-design
-\`\`\`
+```
 
 ### Run All Tests
-\`\`\`bash
+```bash
 python -m unittest discover tests -v
-\`\`\`
+```
 
 
 ## Test Summary
@@ -75,4 +75,3 @@ python -m unittest tests.test_notification_service.TestNotificationService.test_
 ## License
 
 MIT License - See LICENSE file for details
-
