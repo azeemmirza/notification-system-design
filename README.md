@@ -4,6 +4,9 @@ A comprehensive exploration of building scalable notification systems with desig
 
 This project demonstrates a **flexible, extensible notification system** using core software engineering principles.
 
+This repo contains the implementation referenced in my blog post **[Composition over Inheritance: A Notification System Design](https://azeemmirza.co/blog/composition-over-inheritance-a-notification-system-case-study)** and serves as the accompanying code sample.
+
+
 ## Table of Contents
 - [Architecture](#architecture)
 - [Quick Start](#quick-start)
