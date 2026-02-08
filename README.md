@@ -50,18 +50,6 @@ python -m unittest discover tests -v
 - TestChannels: 3 tests
 - TestPolicyPipeline: 4 tests
 
-### Running Tests
-\`\`\`bash
-# All tests
-python -m unittest discover tests -v
-
-# Specific test class
-python -m unittest tests.test_notification_service.TestNotificationService
-
-# Specific test
-python -m unittest tests.test_notification_service.TestNotificationService.test_send_immediate_email
-\`\`\`
-
 
 ## Project Features
 
