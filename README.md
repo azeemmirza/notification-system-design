@@ -15,11 +15,12 @@ This repo contains the implementation referenced in my blog post **[Composition 
 
 ## Architecture
 
+```text
 NotificationService
     ├── Router (resolve channel + provider)
     ├── PolicyPipeline (chain-of-responsibility)
     └── Dispatcher (execute delivery)
-
+```
 
 ## Quick Start
 
